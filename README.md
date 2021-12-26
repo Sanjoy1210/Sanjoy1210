@@ -6,20 +6,20 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&center=true&width=500&lines=Web+Developer;Programmer;Full+Stack+Developer" /></a>
 </p>
 
-<p align="center">
-  <h2 align="center"> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
+<p>
+  <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 </p>
 
-<div align="center">
-  <h3 align="center">👉 Programming languages</h3>
-  <div align="center">
+<div>
+  <h3>👉 Programming languages</h3>
+  <div>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32" height="32">
     <img src="https://img.icons8.com/color/452/c-programming.png" alt="C-Programming" width="32" height="32"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="C++-Programming" width="51" height="51" />
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   </div>
-  <h3 align="center">👉 Frontend Development</h3>
-  <div align="center">
+  <h3>👉 Frontend Development</h3>
+  <div>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="32" height="32" />
@@ -29,20 +29,20 @@
     <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="32" height="32" />
   </div>
-  <h3 align="center">👉 Backend Development</h3>
-  <div align="center">
+  <h3>👉 Backend Development</h3>
+  <div>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="32" height="32" />
   </div>
-  <h3 align="center">👉 Databases & Cloud Hosting</h3>
-  <div align="center">
+  <h3>👉 Databases & Cloud Hosting</h3>
+  <div>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="32" height="32">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="32" height="32" />
   </div>
-  <h3 align="center">👉 Software & Tools</h3>
-  <div align="center">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/subversion.svg" alt="Subversion" width="32" height="32" />
+  <h3>👉 Software & Tools</h3>
+  <div>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32" height="32" />
     <img alt="GitHub" height="32" width="32" src="assets/github.svg" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32" height="32" />
@@ -51,23 +51,11 @@
   </div>
 </div>
 
-<div style="max-width:fit-content; padding: 5px 5px 0 5px; margin:15px 0;">
-  <img style="color: blue" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/bootstrap.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/html5.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/css3.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/mongodb.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/javascript.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/express.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/nodedotjs.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/github.svg" />
-</div>
-
-<p align="center">
-  <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p>
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/Sanjoy1210"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
   <a href="https://www.linkedin.com/in/sanjoypaul12/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
   <a href="https://www.facebook.com/12sanjoypaul/"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
