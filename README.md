@@ -7,8 +7,19 @@
 </p>
 
 <p align="center">
-  <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="100px"></h2>
+  <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 </p>
+
+<div align="center">
+  <h3 align="center">👉 Programming languages</h3>
+  <div align="center">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="44" height="44">
+    <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" />
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ >
+  </div>
+
+</div>
 
 <div style="max-width:fit-content; padding: 5px 5px 0 5px; margin:15px 0;">
   <img style="color: blue" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />
