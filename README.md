@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Sanjoy Paul</a>'s Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">Welcome to <a href="https://github.com/Sanjoy1210">Sanjoy Paul</a>'s Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35"> </h2>
 </p>
 
 <p align="center">
