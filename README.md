@@ -26,8 +26,8 @@
     <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="32" height="32" />
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="32" height="32" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="32" height="32" />
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind-CSS" width="32" height="32" />
   </div>
   <h3>👉 Backend Development</h3>
   <div>
