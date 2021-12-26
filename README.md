@@ -2,10 +2,14 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Sanjoy Paul</a>'s Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
 
+<!-- <p align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=operator+mono&color=%2336BCF7&size=24&lines=Web+Developer;Programmer;Full+Stack+Developer)](https://git.io/typing-svg)
+
+</p> -->
+
 <p align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=operator+mono&color=%2336BCF7&size=24&center=true&vCenter=true&lines=Web+Developer;Programmer;Full+Stack+Developer)](https://git.io/typing-svg)
-
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Web+Developer;Programmer;Full+Stack+Developer" /></a>
 </p>
 
 
