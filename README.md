@@ -3,11 +3,14 @@
 </p>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;Programmer;Full+Stack+Developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&center=true&width=500&lines=Web+Developer;Programmer;Full+Stack+Developer" /></a>
 </p>
 
+<p align="center">
+  <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="100px"></h2>
+</p>
 
-<div style="background-color:white; max-width:fit-content; padding: 5px 5px 0 5px; margin:15px 0;">
+<div style="max-width:fit-content; padding: 5px 5px 0 5px; margin:15px 0;">
   <img style="color: blue" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/bootstrap.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/html5.svg" />
