@@ -15,7 +15,7 @@
   <div>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32" height="32">
     <img src="https://img.icons8.com/color/452/c-programming.png" alt="C-Programming" width="32" height="32"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="C++-Programming" width="32" height="32" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="C++-Programming" width="35" height="35" />
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   </div>
   <h3>👉 Frontend Development</h3>
